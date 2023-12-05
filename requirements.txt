@@ -1,0 +1,6 @@
+graphene-django
+django-graphql-jwt
+django
+pandas 
+scikit-learn
+joblib
